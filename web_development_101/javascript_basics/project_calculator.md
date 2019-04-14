@@ -44,6 +44,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [Sayyam Mehra's Solution](https://github.com/sayyam1994/calculator) - [View in Browser](https://sayyam1994.github.io/calculator/)
 - [Christine Gierer's Solution](https://github.com/beansprout/calculator) - [View in Browser](https://beansprout.github.io/calculator/)
 - [Samuel Alonso's Solution](https://github.com/samontenegro/js-calculator)
 - [Carmine's Solution](https://github.com/cgrossi/calculator-project) - [View in Browser](https://cgrossi.github.io/calculator-project/)
